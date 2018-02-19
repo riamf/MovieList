@@ -49,7 +49,7 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :moviewList, MoviewList.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "pkowalczuk",
+  username: "pawelkowalczuk",
   password: "",
   database: "moviewlist_dev",
   hostname: "localhost",
